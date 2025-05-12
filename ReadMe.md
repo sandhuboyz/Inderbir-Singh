@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Data analyst.<br>👯 I’m looking to collaborate with those who work as data analysts and learns new things<br>🤝 I’m looking for help with who want to learn data analysis.<br>🌱 I’m currently learning Python<br>💬 Ask me about -Additive to learn new things<br>⚡ Fun fact- I am lazy but smart.
+🔭 I’m currently working as a Data analyst.<br>👯 I’m looking to collaborate with those who work as data analysts and learns new things<br>🤝 I’m looking for help from those who want to learn data analysis.<br>🌱 I’m currently learning Python<br>💬 Ask me about -Additive to learn new things<br>⚡ Fun fact- I am lazy but smart.
 
 
 ## 🌐 Socials:
